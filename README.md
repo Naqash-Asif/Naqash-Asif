@@ -9,7 +9,7 @@
 ### 🔥 Featured Projects
 - **RecStream** – Live TV & radio streaming & recording platform  
 - **Agro Resource Control (ARC)** – AI-powered agriculture management system  
-- **Ecommerce Platform** – ASP.NET Core based e-commerce solution  
+- **Udeal Zone** – ASP.NET Core based online market place  
 
 ---
 
