@@ -312,10 +312,9 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naqash-Asif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Naqash-Asif&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 <div align="center">
