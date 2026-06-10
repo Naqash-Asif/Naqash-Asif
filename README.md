@@ -362,22 +362,125 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 
 ---
 
+<div align="center">
+
 ## 🧱 Engineering Principles
 
-```txt
-Clean Code
-Maintainable Architecture
-Secure API Design
-Database Optimization
-Reusable Components
-Business-First Development
-Scalable Backend Systems
-Professional UI Integration
-Reliable Delivery
-Long-Term Client Value
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2400&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Clean+Code+%7C+Secure+APIs+%7C+Scalable+Architecture;Business-First+Development+%7C+Reliable+Delivery;Building+Software+That+Is+Maintainable+And+Useful" />
 
-I believe software should not only work. It should be **clean, secure, scalable, maintainable, and useful for real business users**.
+</div>
+
+<br />
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧼 Clean Code</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Readable-Code-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maintainable-512BD4?style=for-the-badge" />
+</p>
+
+* Clear naming and readable structure
+* Reusable components and helper methods
+* Simple logic instead of unnecessary complexity
+* Code that is easy to debug, extend, and maintain
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏗️ Strong Architecture</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Clean%20Architecture-00C6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Layered%20Systems-0A66C2?style=for-the-badge" />
+</p>
+
+* Clean Architecture and Layered Architecture
+* Proper separation of concerns
+* Scalable backend structure
+* Business logic organized for long-term growth
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔐 Secure API Design</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-Security-2EA043?style=for-the-badge" />
+</p>
+
+* Secure REST API development
+* JWT authentication and role-based access
+* Safe database operations
+* Backend validation and controlled data flow
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Database Optimization</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Stored%20Procedures-003B57?style=for-the-badge" />
+</p>
+
+* Optimized SQL queries
+* Stored Procedure based workflows
+* ADO.NET and EF Core usage
+* Reliable, structured, and scalable data handling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Business-First Development</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Business%20Logic-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real%20World%20Use-0A66C2?style=for-the-badge" />
+</p>
+
+* Software designed around business workflows
+* Dashboards, reports, admin panels, and portals
+* Features focused on actual user needs
+* Practical solutions instead of over-engineering
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 Reliable Delivery</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Production%20Ready-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Long%20Term%20Value-00C6FF?style=for-the-badge" />
+</p>
+
+* Stable and tested implementation
+* Debugging and issue resolution mindset
+* Long-term maintainability
+* Client-focused delivery through AxiomHub
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=I+believe+software+should+not+only+work.;It+should+be+clean%2C+secure%2C+scalable%2C+maintainable+and+valuable.;Strong+architecture+creates+long-term+business+value." />
+
+</div>
+
 
 ---
 
