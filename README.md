@@ -223,15 +223,22 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 
 ## 🏗️ What I Build For Clients
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Business+Applications+%7C+Backend+APIs+%7C+Database+Systems+%7C+Full+Stack+Platforms;Helping+businesses+build+secure%2C+scalable+and+reliable+software" />
+
 </div>
 
-<table>
+<br />
+
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Business Applications
+<h3 align="center">🏢 Business Applications</h3>
 
-<img align="right" width="85" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+<img src="https://img.shields.io/badge/Admin%20Dashboards-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business%20Portals-512BD4?style=for-the-badge" />
+</p>
 
 * Admin dashboards
 * Business portals
@@ -243,9 +250,12 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 </td>
 <td width="50%" valign="top">
 
-### 🔗 Backend & API Systems
+<h3 align="center">🔗 Backend & API Systems</h3>
 
-<img align="right" width="85" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<p align="center">
+<img src="https://img.shields.io/badge/REST%20APIs-00C6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge" />
+</p>
 
 * REST APIs
 * Secure backend services
@@ -260,9 +270,12 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Database Solutions
+<h3 align="center">📊 Database Solutions</h3>
 
-<img align="right" width="85" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
+<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stored%20Procedures-003B57?style=for-the-badge" />
+</p>
 
 * SQL Server database design
 * Stored Procedures
@@ -274,9 +287,12 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Platforms
+<h3 align="center">🌐 Full Stack Platforms</h3>
 
-<img align="right" width="85" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<p align="center">
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 * ASP.NET MVC applications
 * React-connected frontends
@@ -288,6 +304,7 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 </td>
 </tr>
 </table>
+
 
 ---
 
