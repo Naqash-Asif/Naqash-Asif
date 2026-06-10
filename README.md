@@ -310,9 +310,17 @@ An ASP.NET Core based marketplace platform focused on product workflows, user in
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naqash-Asif&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies" />
+<img src="https://img.shields.io/badge/Profile-Active%20Developer-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-.NET%20Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Building-AxiomHub-00C6FF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Work-2EA043?style=for-the-badge&logo=upwork&logoColor=white" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2400&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Building+Real+Business+Software;ASP.NET+Core+%7C+SQL+Server+%7C+React;Clean+Architecture+%7C+APIs+%7C+Dashboards;Growing+AxiomHub+as+a+Software+Brand" />
 
 </div>
 ---
