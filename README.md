@@ -565,24 +565,6 @@ Through AxiomHub, my goal is to deliver:
 
 <div align="center">
 
-## 🎯 Current Focus
-
-</div>
-
-```txt
-🚀 Building scalable ASP.NET Core applications
-🔐 Improving API security with JWT and RBAC
-📊 Creating admin dashboards and reporting systems
-🧱 Strengthening Clean Architecture practices
-🗄️ Improving SQL Server and Stored Procedure workflows
-🌍 Growing AxiomHub for remote and international clients
-🤝 Delivering freelance and business software projects
-```
-
----
-
-<div align="center">
-
 ## 🌍 Open To Work & Collaboration
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=0A66C2&center=true&vCenter=true&width=850&lines=Remote+.NET+Developer+Roles;Freelance+Software+Projects;Backend+%26+API+Development;Admin+Dashboards+%26+Business+Apps;International+Client+Work;Long-Term+Technical+Collaborations" />
