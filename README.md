@@ -1,18 +1,20 @@
-<!-- ========================= -->
+<!-- =============================== -->
 
-<!--  AXIOMHUB GITHUB PROFILE  -->
+<!--      NAQASH ASIF GITHUB README  -->
 
-<!-- ========================= -->
+<!--      AXIOMHUB PROFESSIONAL UI    -->
+
+<!-- =============================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A66C2,50:512BD4,100:00C6FF&text=Naqash%20Asif&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20AxiomHub%20Builder&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0A66C2,45:512BD4,100:00C6FF&text=Naqash%20Asif&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20AxiomHub%20Builder%20%7C%20Business%20Software%20Engineer&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+Web+API+%7C+SQL+Server;React+%7C+Razor+Views+%7C+Bootstrap;Clean+Architecture+%7C+REST+APIs+%7C+Scalable+Systems;Building+Business+Software+with+AxiomHub" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=950&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%7C+MVC+%7C+Web+API+%7C+SQL+Server;React+%7C+Razor+Views+%7C+Bootstrap+%7C+jQuery;Clean+Architecture+%7C+REST+APIs+%7C+Secure+Systems;Building+Business+Software+with+AxiomHub" />
 
 </div>
 
@@ -29,9 +31,20 @@
 <a href="mailto:naqashasif128@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0A66C2" />
+<a href="https://github.com/Naqash-Asif">
+  <img src="https://komarev.com/ghpvc/?username=Naqash-Asif&style=for-the-badge&color=0A66C2" />
 </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Work-00C6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Available%20For-Freelance%20Projects-512BD4?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Business%20Software-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Pakistan-2EA043?style=flat-square" />
 
 </div>
 
@@ -39,33 +52,45 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="62%" valign="top">
 
 ## 👋 About Me
 
-I am **Naqash Asif**, a **Full Stack .NET Developer** from Pakistan, focused on building secure, scalable, and business-driven software systems.
+I am **Naqash Asif**, a **Full Stack .NET Developer** focused on building secure, scalable, and business-focused software systems.
 
-I work with **ASP.NET Core, MVC, Web APIs, SQL Server, React, Razor Views, Bootstrap, ADO.NET, Entity Framework Core, Stored Procedures, and Clean Architecture**.
+I work mainly with **ASP.NET Core, ASP.NET MVC, Web APIs, SQL Server, Entity Framework Core, ADO.NET, Stored Procedures, Razor Views, React, Bootstrap, and Clean Architecture**.
 
-Through **AxiomHub**, I aim to build software that helps businesses automate operations, manage data, improve workflows, and grow digitally.
+Through **AxiomHub**, I aim to build software solutions that help businesses automate workflows, manage operations, improve reporting, and grow through reliable digital systems.
 
-### 🚀 My Development Focus
+### 🚀 My Core Focus
 
 * Building scalable **ASP.NET Core applications**
-* Designing secure **REST APIs**
-* Creating business dashboards and admin panels
-* Working with **SQL Server**, Stored Procedures, and optimized queries
-* Delivering clean, maintainable, and production-ready systems
-* Helping businesses through **AxiomHub software solutions**
+* Designing secure **RESTful APIs**
+* Creating **admin dashboards and reporting systems**
+* Working with **SQL Server, Stored Procedures, and ADO.NET**
+* Developing business workflows with **MVC, Razor Views, and React**
+* Writing clean, maintainable, and production-ready code
+* Growing **AxiomHub** as a professional software brand
 
 </td>
-<td width="42%" align="center">
-
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/naqash-asif.png?raw=true" width="300" style="border-radius: 20px;" />
+<td width="38%" align="center" valign="top">
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=1000&color=0A66C2&center=true&vCenter=true&width=340&lines=Backend+Focused;Business+Software+Builder;API+%26+Database+Engineer;AxiomHub+Vision" />
+<img src="https://github.com/Naqash-Asif.png" width="250" alt="Naqash Asif" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=900&color=0A66C2&center=true&vCenter=true&width=340&lines=Backend+Focused;API+Developer;Database+Engineer;Dashboard+Builder;AxiomHub+Vision" />
+
+<br />
+
+<img src="https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/AxiomHub-Founder%20Mindset-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
 </td>
 </tr>
@@ -76,6 +101,8 @@ Through **AxiomHub**, I aim to build software that helps businesses automate ope
 <div align="center">
 
 ## 🧠 Tech Stack
+
+### Languages, Frameworks, Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,js,react,html,css,bootstrap,jquery,postgres,git,github,postman" />
 
@@ -91,16 +118,24 @@ Through **AxiomHub**, I aim to build software that helps businesses automate ope
 <img src="https://img.shields.io/badge/Stored%20Procedures-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Razor%20Views-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Clean%20Architecture-00C6FF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🔥 Featured Projects
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=900&color=00C6FF&center=true&vCenter=true&width=780&lines=Real+Projects.+Real+Business+Problems.;Streaming+Systems+%7C+AI+Agriculture+%7C+Marketplace;Backend+APIs+%7C+Dashboards+%7C+Database+Workflows" />
+
+</div>
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -110,22 +145,23 @@ Through **AxiomHub**, I aim to build software that helps businesses automate ope
 
 </div>
 
-A live TV and radio streaming platform that records continuous streams, stores them in segments, and allows users to access recordings through a calendar-based interface.
+A live TV and radio streaming platform designed to continuously record streams, store recordings into segments, and allow access through a calendar-based interface.
 
-**Highlights**
+**Key Features**
 
-* Live stream recording
-* Segment-based media storage
-* Calendar-based access
-* Clip creation system
-* React + .NET integration
+* Continuous stream recording
+* Segment-based recording storage
+* Calendar-based media access
+* Clip creation from recorded streams
+* React frontend with .NET backend
+* Scalable structure for large media data
 
-**Stack**
+**Tech Stack**
 
 `React` `ASP.NET Core` `Web API` `SQL Server` `File Handling`
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -135,22 +171,24 @@ A live TV and radio streaming platform that records continuous streams, stores t
 
 </div>
 
-An AI-powered agriculture management platform built for farmers, suppliers, and admins with recommendations, disease detection, order workflows, and role-based access.
+An AI-powered agriculture management system built for farmers, suppliers, and admins with intelligent recommendations, orders, portals, and analytics.
 
-**Highlights**
+**Key Features**
 
-* Crop recommendation
+* AI-powered crop recommendation
 * Plant disease detection
-* Farmer/supplier portals
-* Admin analytics dashboard
-* JWT + RBAC security
+* Farmer and supplier portals
+* Order management system
+* Admin dashboard with analytics
+* JWT authentication and RBAC
+* Weather and third-party API integrations
 
-**Stack**
+**Tech Stack**
 
-`ASP.NET Core Web API` `React` `SQL Server` `EF Core` `ML.NET`
+`ASP.NET Core Web API` `React.js` `SQL Server` `EF Core` `ML.NET` `JWT`
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -160,17 +198,18 @@ An AI-powered agriculture management platform built for farmers, suppliers, and 
 
 </div>
 
-An ASP.NET Core based marketplace system focused on business workflows, product management, user interaction, and database-driven backend features.
+An ASP.NET Core based marketplace platform focused on product workflows, user interaction, business logic, and database-driven backend features.
 
-**Highlights**
+**Key Features**
 
 * Marketplace structure
 * Product workflows
 * User management
 * Admin-side logic
 * Responsive UI
+* Database-driven business flow
 
-**Stack**
+**Tech Stack**
 
 `ASP.NET Core` `MVC` `Razor Views` `Bootstrap` `SQL Server`
 
@@ -188,59 +227,63 @@ An ASP.NET Core based marketplace system focused on business workflows, product 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏢 Business Applications
 
-<img align="right" width="90" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="85" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 * Admin dashboards
+* Business portals
 * Internal management systems
 * ERP/CRM style modules
-* Reporting systems
-* Business automation tools
+* Workflow automation systems
+* Reporting and analytics modules
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔗 Backend Systems
+### 🔗 Backend & API Systems
 
-<img align="right" width="90" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" width="85" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 * REST APIs
-* Authentication systems
-* JWT authorization
-* Role-based access control
-* Secure database workflows
+* Secure backend services
+* JWT authentication
+* Role-based authorization
+* API integration
+* Performance-focused backend logic
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Database Solutions
 
-<img align="right" width="90" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
+<img align="right" width="85" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
 
-* SQL Server design
+* SQL Server database design
 * Stored Procedures
-* ADO.NET integration
+* ADO.NET implementation
 * Query optimization
 * Data-driven reports
+* Structured business data flows
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Full Stack Platforms
 
-<img align="right" width="90" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width="85" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-* ASP.NET MVC apps
+* ASP.NET MVC applications
 * React-connected frontends
 * Razor Views
 * Bootstrap UI
 * API-connected systems
+* Production-ready web apps
 
 </td>
 </tr>
@@ -252,14 +295,14 @@ An ASP.NET Core based marketplace system focused on business workflows, product 
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naqash-Asif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naqash-Asif&theme=tokyonight&hide_border=true" />
 
 <br />
 <br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqash-Asif&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naqash-Asif&theme=tokyonight&utcOffset=5" />
 
 </div>
 
@@ -269,7 +312,7 @@ An ASP.NET Core based marketplace system focused on business workflows, product 
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Naqash-Asif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -279,7 +322,7 @@ An ASP.NET Core based marketplace system focused on business workflows, product 
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naqash-Asif&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -289,7 +332,7 @@ An ASP.NET Core based marketplace system focused on business workflows, product 
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Naqash-Asif/Naqash-Asif/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -306,58 +349,64 @@ Reusable Components
 Business-First Development
 Scalable Backend Systems
 Professional UI Integration
+Reliable Delivery
+Long-Term Client Value
 ```
 
-I believe software should not only work — it should be **clean, secure, scalable, and valuable for real business users**.
+I believe software should not only work. It should be **clean, secure, scalable, maintainable, and useful for real business users**.
 
 ---
 
+<div align="center">
+
 ## 💼 Professional Experience
+
+</div>
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Metropolitan Solutions
 
 **Full Stack .NET Developer**
 `July 2025 — Present`
 
-* ASP.NET MVC development
-* Razor Views
-* ADO.NET
-* Stored Procedures
-* Backend debugging
-* Business modules
+* Developing ASP.NET MVC applications
+* Building Razor Views
+* Working with ADO.NET
+* Writing Stored Procedures
+* Debugging backend issues
+* Building business modules
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Archibo GmbH
 
-**.NET Developer**
+**.NET Developer — Project Based**
 `March 2025 — April 2025`
 
-* ASP.NET Core services
-* API integration
-* Backend issue fixing
-* Performance improvements
-* Project-based delivery
+* Developed ASP.NET Core services
+* Integrated backend APIs
+* Improved API performance
+* Fixed backend issues
+* Delivered project-based features
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Tech Colleagues
 
 **Jr. .NET Developer**
-`July 2024 — Dec 2024`
+`July 2024 — December 2024`
 
-* ASP.NET Core apps
-* REST APIs
-* EF Core
-* SQL Server
-* Agile/SCRUM
-* Team collaboration
+* Built ASP.NET Core applications
+* Created RESTful APIs
+* Worked with EF Core
+* Used SQL Server
+* Followed Agile/SCRUM practices
+* Collaborated with development team
 
 </td>
 </tr>
@@ -369,7 +418,7 @@ I believe software should not only work — it should be **clean, secure, scalab
 
 ## 🌐 AxiomHub Vision
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Reliable+Software+for+Modern+Businesses;Scalable+Systems+with+Clean+Architecture;Professional+Web+Apps%2C+APIs%2C+Dashboards+%26+Automation;Building+Long-Term+Client+Value" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Reliable+Software+for+Modern+Businesses;Scalable+Systems+with+Clean+Architecture;Professional+Web+Apps%2C+APIs%2C+Dashboards+%26+Automation;Building+Long-Term+Client+Value" />
 
 </div>
 
@@ -382,6 +431,7 @@ Through AxiomHub, my goal is to deliver:
 * Modern dashboards
 * Secure APIs
 * Reliable database systems
+* Practical automation
 * Long-term client value
 
 ---
@@ -397,6 +447,7 @@ Through AxiomHub, my goal is to deliver:
 🔐 Improving API security with JWT and RBAC
 📊 Creating admin dashboards and reporting systems
 🧱 Strengthening Clean Architecture practices
+🗄️ Improving SQL Server and Stored Procedure workflows
 🌍 Growing AxiomHub for remote and international clients
 🤝 Delivering freelance and business software projects
 ```
@@ -405,9 +456,9 @@ Through AxiomHub, my goal is to deliver:
 
 <div align="center">
 
-## 🌍 Open To Work / Collaboration
+## 🌍 Open To Work & Collaboration
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=0A66C2&center=true&vCenter=true&width=760&lines=Remote+.NET+Developer+Roles;Freelance+Software+Projects;Backend+%26+API+Development;Admin+Dashboards+%26+Business+Apps;International+Client+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=0A66C2&center=true&vCenter=true&width=850&lines=Remote+.NET+Developer+Roles;Freelance+Software+Projects;Backend+%26+API+Development;Admin+Dashboards+%26+Business+Apps;International+Client+Work;Long-Term+Technical+Collaborations" />
 
 </div>
 
@@ -418,6 +469,7 @@ I am open to:
 * Backend/API development
 * ASP.NET Core business applications
 * Admin dashboards and reporting systems
+* Database-driven systems
 * Long-term technical collaborations
 * International client projects
 
@@ -445,16 +497,24 @@ I am open to:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0A66C2,50:512BD4,100:00C6FF&section=footer" />
+## 💡 Developer Mindset
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Clean+Code+Matters;Strong+Architecture+Matters;Business+Value+Matters;Reliable+Delivery+Matters" />
 
 </div>
 
 <div align="center">
 
-### 💡 “I build software that is clean in code, strong in architecture, and useful for real businesses.”
+### “I build software that is clean in code, strong in architecture, and useful for real businesses.”
 
 <br />
 
 ⭐ **Thanks for visiting my GitHub profile. Let’s build something impactful.**
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0A66C2,45:512BD4,100:00C6FF&section=footer" />
 
 </div>
